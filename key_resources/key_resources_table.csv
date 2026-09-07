@@ -1,0 +1,21 @@
+
+Resource,Version,Purpose
+
+Python,3.9.5,Programming language
+
+pandas,2.3.3,Data manipulation
+
+numpy,2.0.2,Numerical computation
+
+scikit-learn,1.6.1,Model training / evaluation / preprocessing
+
+xgboost,2.1.4,Gradient-boosted classification
+
+Boruta,0.4.3,Feature selection
+
+imbalanced-learn,0.12.4,SMOTE class balancing
+
+scipy,1.13.1,Statistical testing
+
+statsmodels,0.14.6,Multiple-testing correction
+
