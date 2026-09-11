@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+requests
+joblib
+numpy
+pandas
+scikit-learn
+xgboost
+matplotlib
+boruta
+imbalanced-learn
+scipy
+statsmodels
